@@ -8,5 +8,4 @@ A responsive and modern component to discover and showcase recipes in a clean ca
 - 🧁 **Stylish recipe cards** : Beautiful cards with images and titles to attract users.  
 - 📱 **Fully responsive design** : Works seamlessly on all screen sizes from mobile to desktop.  
 - 🔍 **Search functionality** : Quickly filter recipes by keywords.  
-- 🔁 **Reusable and clean code structure** : Easy to maintain and extend.  
-- 🌐 **Built with pure HTML, CSS (or Tailwind), and JavaScript / React** : No heavy dependencies required. 
+- 🔁 **Reusable and clean code structure** : Easy to maintain and extend.
