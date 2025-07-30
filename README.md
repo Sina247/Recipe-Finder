@@ -1,6 +1,6 @@
 # 🍽️ Recipe Finder
 
-A responsive and modern component to discover and showcase recipes in a clean card-based UI with a "View Recipe" button, perfect for food lovers and bloggers.
+A responsive, modern component to discover and showcase recipes in a clean card based UI with a view recipe button, perfect for food lovers and bloggers.
 
 ---
 
